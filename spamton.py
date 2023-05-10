@@ -1,4 +1,4 @@
-#!/usr/bin/py
+#!/usr/bin/python3
 
 #don't do anything stupid
 
